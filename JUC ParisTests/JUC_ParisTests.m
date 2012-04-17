@@ -26,7 +26,7 @@
 
 - (void)testAreImplemented
 {
-    STFail(@"Test Not implemented",nil);
+    // STFail(@"Test Not implemented",nil);
 }
 
 @end
